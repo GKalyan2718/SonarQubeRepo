@@ -1,0 +1,6 @@
+projectKey=in.ashokit:sonar-maven-web-app
+serverUrl=http://43.204.233.199:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://43.204.233.199:9000/dashboard?id=in.ashokit%3Asonar-maven-web-app
+ceTaskId=AYFnrHdzVeOC1v5fAoiq
+ceTaskUrl=http://43.204.233.199:9000/api/ce/task?id=AYFnrHdzVeOC1v5fAoiq
